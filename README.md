@@ -1,4 +1,5 @@
-# dw-project
+# Wrangle OpenStreetMap Data
+
 Project for Data Wrangling of Data Analyst Nanodegree Program at Udacity
 
 * data.py: parse elements in the OSM XML and transform to tabular format
